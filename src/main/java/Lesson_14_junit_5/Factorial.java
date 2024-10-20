@@ -1,4 +1,4 @@
-package Lesson_14_junit_5;
+package main.java.Lesson_14_junit_5;
 
 import java.util.Scanner;
 

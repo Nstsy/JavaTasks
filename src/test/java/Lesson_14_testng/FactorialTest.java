@@ -1,5 +1,6 @@
-package Lesson_14_testng;
+package test.java.Lesson_14_testng;
 
+import main.java.Lesson_14_testng.Factorial;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
